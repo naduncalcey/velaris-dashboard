@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/velaris-dashboard/static/css/main.98b5f6a5.css",
+    "main.js": "/velaris-dashboard/static/js/main.9cc77ad8.js",
+    "static/media/logo-mono.svg": "/velaris-dashboard/static/media/logo-mono.85a47b5fa544c85cc245da9b5236e770.svg",
+    "index.html": "/velaris-dashboard/index.html",
+    "main.98b5f6a5.css.map": "/velaris-dashboard/static/css/main.98b5f6a5.css.map",
+    "main.9cc77ad8.js.map": "/velaris-dashboard/static/js/main.9cc77ad8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b5f6a5.css",
+    "static/js/main.9cc77ad8.js"
+  ]
+}
